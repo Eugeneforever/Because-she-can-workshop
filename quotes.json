@@ -25,9 +25,14 @@
       "contributor":"mildthrone"
    },
    {
-      "name" : "Maya Angelou",
+     "name":"Buddha",
+     "quote":"Peace comes from within. Do not seek it without"
+     "contributor":"makpalu"
+   },
+   {
+     "name" : "Maya Angelou",
       "quote" : "Still I Rise",
-      "contributor": "El-Karece"
+      "contributor": "El-Karece" 
    },
    {
       "name": "Confucius",
