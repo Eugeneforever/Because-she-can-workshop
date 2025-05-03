@@ -28,5 +28,10 @@
       "name" : "Maya Angelou",
       "quote" : "Still I Rise",
       "contributor": "El-Karece"
+   },
+   {
+      "name" : "Martin Luther King",
+      "quote" : "I have a dream",
+      "contributor": "cedricbansah"
    }
 ]
